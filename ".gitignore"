@@ -1,0 +1,11 @@
+# Ignorer les données brutes et les gros fichiers d'assemblage
+00_Raw_Data/
+01_QC/
+02_Assembly/
+03_Annotation/
+04_AMR/
+05_Typage/
+06_SNP_Phylo/
+*.fastq.gz
+*.fasta
+*.bam

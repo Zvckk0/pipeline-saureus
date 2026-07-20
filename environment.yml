@@ -1,0 +1,27 @@
+name: staph_pipeline
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - fastp
+  - cutadapt
+  - adapter-removal
+  - sickle-trim
+  - trimmomatic
+  - spades
+  - megahit
+  - skesa
+  - shovill
+  - unicycler
+  - quast
+  - prokka
+  - dfast
+  - kofamscan
+  - checkm-genome
+  - abricate
+  - ncbi-amrfinderplus
+  - mlst
+  - mykrobe
+  - snippy
+  - fasttree
